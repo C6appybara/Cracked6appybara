@@ -1,5 +1,4 @@
-Hi I'm 6apybara <dev>
-I am practising MalDev and Cyber Security. 
+Hi I'm 6apybara, I mess around with malware and other tools for fun. 
 
 
 <a>
