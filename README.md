@@ -9,4 +9,4 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cracked6appybara&show_icons=true&theme=gotham" alt="github stats" width="25%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cracked6appybara&show_icons=true&theme=gotham" alt="github stats" width="35%"/>
