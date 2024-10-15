@@ -1,2 +1,2 @@
-<h1>Cracked6appybara</h1>
+<h1 align="center">Cracked6appybara</h1>
 
