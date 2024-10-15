@@ -5,4 +5,5 @@
       <img src="https://shields.io/badge/6apybara.com-black?style=for-the-badge" alt="https://6appybara.com"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Cracked6appybara&style=flat-square&color=blue" alt=""/>
 </div>
