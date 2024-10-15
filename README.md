@@ -6,6 +6,5 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Cracked6appybara&style=flat-square&color=blue" alt=""/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Cracked6appybara&show_icons=true&theme=gotham" alt="github stats" width="45%"/>
 </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cracked6appybara&show_icons=true&theme=gotham" alt="github stats" width="45%"/>
